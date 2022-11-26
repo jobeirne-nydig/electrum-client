@@ -12,7 +12,7 @@ Electrum Protocol Client for node.js.
 
 * persistence (ping strategy and reconnection)
 * batch requests
-* works in RN and nodejs
+* works in nodejs
 
 ## protocol spec
 
